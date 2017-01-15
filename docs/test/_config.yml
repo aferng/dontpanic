@@ -79,10 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Don't Panic"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Making phobia & PTSD treatment via virtual reality a reality."
+  location         : "Tucson, AZ"
   email            :
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "mmistakes"
+  twitter          : # "mmistakes"
   vine             :
   weibo            :
   xing             :
@@ -113,6 +113,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
